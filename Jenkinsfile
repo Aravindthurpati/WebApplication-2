@@ -13,6 +13,8 @@ sudo apt install jenkins
 # Start and enable Jenkins service
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
+sudo systemctl status jenkins
+
 
 # Install Docker
 sudo apt install docker.io
