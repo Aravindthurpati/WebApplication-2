@@ -24,6 +24,6 @@ hi me to you introdusing  oooooo
 
 app.MapRazorPages();
 
-ggchagschgshgsjdfhfhwhjasdgh ......
+ggchagschgshgsjdfhfhwhjasdgh ...
 
 app.Run();
